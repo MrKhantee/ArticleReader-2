@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">微文</string>
+    <string name="list_title">微信热门文章精选</string>
+    <string name="search">search</string>
+    <string name="share">share</string>
+    <string name="input_tips">请输入需要搜索的关键字！</string>
+</resources>
